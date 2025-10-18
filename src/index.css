@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.inputfield {
+  @apply border-2 rounded-full;
+}
+
